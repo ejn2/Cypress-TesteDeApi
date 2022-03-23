@@ -1,0 +1,14 @@
+{   
+    "new_beer" : {
+        "name": "Beer",
+        "brand": "Sky",
+        "quantity": 20
+
+    },
+
+    "changed_beer" : {
+        "name": "Beer-changed",
+        "brand": "Sky",
+        "quantity": 10
+    }
+}

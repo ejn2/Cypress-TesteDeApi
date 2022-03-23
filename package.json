@@ -1,0 +1,13 @@
+{
+  "name": "CypressTesteDeApi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "cypress open",
+    "run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^9.5.2"
+  }
+}
